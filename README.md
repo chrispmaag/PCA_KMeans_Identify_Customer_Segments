@@ -1,4 +1,4 @@
-# PCA_KMeans_Identify_Customer_Segments
+# Identify Customer Segments
 
 ## Background Information
 
